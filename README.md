@@ -14,8 +14,8 @@ Knight2Move is a game where a player can see all the moves a knight can make on 
     ├── middleware            # Application middleware
     ├── models                # Database models 
     ├── services              # Functional services 
-    ├── server.js             # Server config
-    └── README.md
+    ├── README.md             
+    └── server.js             # Server config
 ```
 
 Start by cloning a local copy of the project to your Desktop. After that, change directories into the root project folder and install the server-side node modules.
