@@ -14,6 +14,7 @@ Knight2Move is a game where a player can see all the moves a knight can make on 
     ├── middleware            # Application middleware
     ├── models                # Database models 
     ├── services              # Functional services 
+    ├── CONTRIBUTING.md      
     ├── README.md             
     └── server.js             # Server config
 ```
