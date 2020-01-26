@@ -76,9 +76,7 @@ function calculateNextMoves(cell) {
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome. See [CONTRIBUTING.md](https://github.com/isaacg11/k2mTest/blob/master/CONTRIBUTING.md) for more info.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
